@@ -75,3 +75,10 @@ Edit
     "cookTime": 25
   }
 ]
+## Screen Shorts of post man output
+$$ for post data
+https://github.com/Akula123sri/Recipe-api/blob/main/postdata.png.png
+$$ for getall data
+https://github.com/Akula123sri/Recipe-api/blob/main/getall.png.png
+$$ for getbyid
+https://github.com/Akula123sri/Recipe-api/blob/main/getbyid.png.png
