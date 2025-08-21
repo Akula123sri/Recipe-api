@@ -79,6 +79,6 @@ Edit
 $$ for post data
 https://github.com/Akula123sri/Recipe-api/blob/main/postdata.png.png
 $$ for getall data
-https://github.com/Akula123sri/Recipe-api/blob/main/getall.png.png
+https://github.com/Akula123sri/Recipe-api/blob/main/get-all.png.png
 $$ for getbyid
 https://github.com/Akula123sri/Recipe-api/blob/main/getbyid.png.png
